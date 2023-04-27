@@ -24,4 +24,27 @@ O repositório está em: https://github.com/DoutorWho/Aplicativo.git
 
 𝟔. 𝐎 𝐥𝐢𝐧𝐤 𝐣𝐚́ 𝐟𝐨𝐢 𝐢𝐧𝐬𝐞𝐫𝐢𝐝𝐨, 𝐥𝐨𝐠𝐨 𝐚𝐜𝐢𝐦𝐚.
 
+𝗘𝘅𝘁𝗿𝗮 𝟭: 
 
+De maneira simplificada, vou mostrar como funciona o projeto em etapas.
+
+1. O usuário entra no site;
+2. O usuário faz uma pergunta;
+3. Outros usuários leem a pergunta dele;
+4. Alguns usuários decidem responder à pergunta;
+5. Um usuário responde à pergunta e adiciona o link da fonte na qual ele achou a resposta;
+6. Outros usuários reagem à resposta da pergunta;
+7. Com selo de certo ou errado;
+8. A partir do momento em que o usuário tem muitos selos de certo, a pergunta é considerada verdadeira pela maioria.
+ 
+ 𝗘𝘅𝘁𝗿𝗮 𝟮:
+ 
+ Exemplo:
+
+❔ [𝗝𝗼𝗮̃𝗼 𝗦𝗶𝗹𝘃𝗮:] É verdade que não teve nenhuma aula na quarta-feira? Dia 26/04/2023?
+🌫️
+→ [𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗲 𝗣𝗲𝗶𝘅𝗼𝘁𝗼:] Sim, é verdade. Houve uma paralisação geral no Brasil na educação. Segue anexo: https://cnte.org.br/index.php/menu/comunicacao/posts/noticias/76020-nesta-quarta-feira-26-tem-greve-nacional-em-defesa-da-lei-do-piso-e-por-revogacao-do-novo-ensino-medio
+
+𝗥𝗲𝗮𝗰̧𝗼̃𝗲𝘀: ✅ 385 ❌ 10
+
+A resposta foi considerada verdadeira, afinal, a maioria respondeu que está correta.
