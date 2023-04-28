@@ -1,6 +1,7 @@
 1. Titulo e Imagem de Capa
 
 Titulo:
+
 Capa:
 
 2. Descrição do Projeto
