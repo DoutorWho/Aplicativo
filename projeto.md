@@ -20,5 +20,5 @@ Autores: Elder Badaro
 
 Tecnologias Utilizadas: 
 
-6. Organização e Aprensentação Visual do Projeto
+6. Organização e Aprensentação Visual do Projeto:
  cauã santos,yuri souza
