@@ -1,6 +1,6 @@
 1. Titulo e Imagem de Capa
 
-Titulo:
+Titulo:anti fake news
 
 Capa:https://images.app.goo.gl/fK8EJX2gUdnKC37w7
 
