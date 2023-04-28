@@ -16,6 +16,8 @@ mas todas as opiniões devem ser apoiadas por fontes confiáveis.
 
 5. Autoria do Projeto e Tecnologia Utilizada
 
-6. Autoria do Projeto e Tecnologias Utilizadas 
+Autores: Elder Badaro
 
-7. Organização e Aprensentação Visual do Projeto
+Tecnologias Utilizadas: 
+
+6. Organização e Aprensentação Visual do Projeto
