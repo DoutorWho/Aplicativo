@@ -1,8 +1,8 @@
-𝟏. 𝐓𝐢𝐭𝐮𝐥𝐨 𝐞 𝐈𝐦𝐚𝐠𝐞𝐦 𝐝𝐞 𝐂𝐚𝐩𝐚 (By Cauã Santos)
+𝟏. 𝐓𝐢𝐭𝐮𝐥𝐨 𝐞 𝐈𝐦𝐚𝐠𝐞𝐦 𝐝𝐞 𝐂𝐚𝐩𝐚 (By Elder Badaró)
 
 🔎 Titulo: VerifyFacts
 
-🖼️ Capa: https://images.app.goo.gl/fK8EJX2gUdnKC37w7
+🖼️ Capa: https://media.discordapp.net/attachments/817520258856386581/1102022446887993444/image.png
 
 𝟐. 𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró)
 
