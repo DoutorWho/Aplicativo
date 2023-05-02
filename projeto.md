@@ -22,6 +22,8 @@ mas todas as opiniões devem ser apoiadas por fontes confiáveis.
 
 𝟒. 𝐔𝐬𝐮𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞 𝐝𝐞 𝐒𝐨𝐥𝐮𝐜̧𝐚̃𝐨 (By Yago Vinicius)
 
+💡 Com o aumento significativo da disseminação de notícias falsas, tornou-se uma preocupação crescente nas escolas. No Brasil, crianças e adolescentes têm acesso a um grande volume de informações pela internet, e a falta de discernimento para distinguir o que é verdadeiro ou falso pode levá-los a cometer erros diversos. Uma solução eficaz seria a utilização de um aplicativo que conecte os estudantes apenas com fontes de informações confiáveis, como veículos de comunicação e líderes que tenham credibilidade dentro do colégio. É fundamental que as escolas incluam em seu currículo disciplinas que ensinem os jovens a identificar e lidar com as notícias falsas, garantindo assim um ambiente de aprendizado seguro. Dessa forma, os alunos serão mais motivados a se empenharem em suas atividades escolares e a desenvolver habilidades importantes para a vida.
+
 𝟓. 𝐀𝐮𝐭𝐨𝐫𝐢𝐚 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐞 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐚 (By Elder Badaró)
 
 ✍️ Autores: Elder Badaró, Sarah Nascimento, Yago Vinicius, Yuri Souza, Cauã Santos. 
