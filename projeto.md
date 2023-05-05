@@ -30,4 +30,6 @@ mas todas as opiniões devem ser apoiadas por fontes confiáveis.
 
 💾 Tecnologias Utilizadas: As tecnologias que serão utilizadas na elaboração deste projeto incluem uma linguagem de programação compatível com servidores web, um design acessível e atraente para os usuários, e um sistema de login fácil de usar e compatível com os estudantes do colégio.
 
-𝟔. 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐜̧𝐚̃𝐨 𝐞 𝐀𝐩𝐫𝐞𝐧𝐬𝐞𝐧𝐭𝐚𝐜̧𝐚̃𝐨 𝐕𝐢𝐬𝐮𝐚𝐥 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Cauã Santos, Yuri Souza)
+𝟔. 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐜̧𝐚̃𝐨 𝐞 𝐀𝐩𝐫𝐞𝐧𝐬𝐞𝐧𝐭𝐚𝐜̧𝐚̃𝐨 𝐕𝐢𝐬𝐮𝐚𝐥 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró)
+
+1. Sim, utilizamos tudo no qual foi socilitado. 
