@@ -2,8 +2,9 @@
 
 🔎 Titulo: VerifyFacts
 
-🖼️ Capa:![image](https://user-images.githubusercontent.com/130578013/236457740-8a708762-0ebe-4052-88c5-8635d029b50d.png)
-https://media.discordapp.net/attachments/817520258856386581/1102022446887993444/image.png
+🖼️ Capa:
+![image](https://user-images.githubusercontent.com/130578013/236457740-8a708762-0ebe-4052-88c5-8635d029b50d.png)
+
 
 𝟐. 𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró)
 
