@@ -11,7 +11,7 @@
 
 * [Descrição do Projeto](Descrição-do-Projeto)
 
-* [Funcionalidades](<h1 align="center">𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬</h1>)
+* [Funcionalidades](#funcionalidades)
 
 * [Usuabilidade de Solução](Usuabilidade-de-Solução)
 
