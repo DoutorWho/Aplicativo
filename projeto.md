@@ -5,18 +5,6 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" vitrinedev/>
 </p>
 
-# Índice 
-
-* [Índice](Índice)
-
-* [Descrição do Projeto](Descrição-do-Projeto)
-
-* [Funcionalidades](#funcionalidades)
-
-* [Usuabilidade de Solução](Usuabilidade-de-Solução)
-
-* [Autoria do Projeto e Tecnologia Utilizada](Autoria-do-Projeto-e-Tecnologia-Utilizada)
-
 <h1 align="center">𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró)</h1> 
 
 <p align="justify">
@@ -28,7 +16,7 @@ mas todas as opiniões devem ser apoiadas por fontes confiáveis.
 ![Descrição do Projeto VerificyFacts](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/news.width-1300_FmjgacW.jpg)
 </p>
 
-<h1 align="center">𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬</h1>
+<h1 align="center">𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬 (Sarah Nascimento)</h1>
 
 + ■ `Funcionalidade 1` Verificação de informações;
 
