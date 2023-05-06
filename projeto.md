@@ -9,7 +9,7 @@
 
 * [Índice](Índice)
 
-* [Descrição do Projeto](#Descrição-do-Projeto-(By Elder Badaró))
+* [Descrição do Projeto](Descrição-do-Projeto)
 
 * [Funcionalidades](funcionalidades)
 
