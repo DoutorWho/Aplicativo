@@ -28,7 +28,7 @@ mas todas as opiniões devem ser apoiadas por fontes confiáveis.
 ![Descrição do Projeto VerificyFacts](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/news.width-1300_FmjgacW.jpg)
 </p>
 
-<h1 align="center">𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬 (By Sarah Nascimento)</h1>
+<h1 align="center">𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬</h1>
 
 + ■ `Funcionalidade 1` Verificação de informações;
 
