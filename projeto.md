@@ -1,32 +1,36 @@
-![image](https://user-images.githubusercontent.com/130578013/236457740-8a708762-0ebe-4052-88c5-8635d029b50d.png)
-
+![Logo VerifyFacts](https://media.discordapp.net/attachments/817520258856386581/1104535914602041374/cooltext434993612318678.png)
 <hr>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" vitrinedev/>
 </p>
 
-# 𝟐. 𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró)
+<h1 align="center">𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró)</h1> 
 
-> 📖 Um aplicativo de verificação de fatos por votação popular de informações descontextualizadas ou falsas. O aplicativo funcionará da seguinte maneira: 
+<p align="justify">
+
+📖 Um aplicativo de verificação de fatos por votação popular de informações descontextualizadas ou falsas. O aplicativo funcionará da seguinte maneira: 
 um usuário fará uma pergunta sobre uma informação que possa estar circulando na escola e outros usuários responderão com opiniões a favor ou contra, 
 mas todas as opiniões devem ser apoiadas por fontes confiáveis.
+   
+![Descrição do Projeto VerificyFacts](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/news.width-1300_FmjgacW.jpg)
+</p>
 
-# 𝟑. 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬 (By Sarah Nascimento)
+# 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬 (By Sarah Nascimento)
 
-+ ■ Verificação de informações;
++ ■ `Funcionalidade 1` Verificação de informações;
 
-+ ■ Opiniões confiáveis;
++ ■ `Funcionalidade 2` Opiniões confiáveis;
 
-+ ■ Respostas através de votações;
++ ■ `Funcionalidade 3` Respostas através de votações;
 
-+ ■ Melhorar a interação entre os alunos;
++ ■ `Funcionalidade 4` Melhorar a interação entre os alunos;
 
-# 𝟒. 𝐔𝐬𝐮𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞 𝐝𝐞 𝐒𝐨𝐥𝐮𝐜̧𝐚̃𝐨 (By Yago Vinicius)
+# 𝐔𝐬𝐮𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞 𝐝𝐞 𝐒𝐨𝐥𝐮𝐜̧𝐚̃𝐨 (By Yago Vinicius)
 
-> 💡 Com o aumento significativo da disseminação de notícias falsas, tornou-se uma preocupação crescente nas escolas. No Brasil, crianças e adolescentes têm acesso a um grande volume de informações pela internet, e a falta de discernimento para distinguir o que é verdadeiro ou falso pode levá-los a cometer erros diversos. Uma solução eficaz seria a utilização de um aplicativo que conecte os estudantes apenas com fontes de informações confiáveis, como veículos de comunicação e líderes que tenham credibilidade dentro do colégio. É fundamental que as escolas incluam em seu currículo disciplinas que ensinem os jovens a identificar e lidar com as notícias falsas, garantindo assim um ambiente de aprendizado seguro. Dessa forma, os alunos serão mais motivados a se empenharem em suas atividades escolares e a desenvolver habilidades importantes para a vida.
+ + `💡` Com o aumento significativo da disseminação de notícias falsas, tornou-se uma preocupação crescente nas escolas. No Brasil, crianças e adolescentes têm acesso a um grande volume de informações pela internet, e a falta de discernimento para distinguir o que é verdadeiro ou falso pode levá-los a cometer erros diversos. Uma solução eficaz seria a utilização de um aplicativo que conecte os estudantes apenas com fontes de informações confiáveis, como veículos de comunicação e líderes que tenham credibilidade dentro do colégio. É fundamental que as escolas incluam em seu currículo disciplinas que ensinem os jovens a identificar e lidar com as notícias falsas, garantindo assim um ambiente de aprendizado seguro. Dessa forma, os alunos serão mais motivados a se empenharem em suas atividades escolares e a desenvolver habilidades importantes para a vida.
 
-# 𝟓. 𝐀𝐮𝐭𝐨𝐫𝐢𝐚 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐞 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐚 (By Elder Badaró)
+# 𝐀𝐮𝐭𝐨𝐫𝐢𝐚 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐞 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐚 (By Elder Badaró)
 
 ### 💾 Tecnologias Utilizadas:
 
@@ -37,4 +41,3 @@ mas todas as opiniões devem ser apoiadas por fontes confiáveis.
 
 | [<img src="https://avatars.githubusercontent.com/u/130578013?v=4" width=115><br><sub>Elder Badaró</sub>](https://github.com/doutorwho) |  [<img src="https://avatars.githubusercontent.com/u/131277418?v=4" width=115><br><sub>Sarah Nascimento</sub>](https://github.com/ncsttt)  |
 | :---: | :---: 
-
