@@ -5,13 +5,16 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" vitrinedev/>
 </p>
 
-### Tópicos 
+# Tópicos 
 
 - [Descrição do projeto](#𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨-𝐝𝐨-𝐏𝐫𝐨𝐣𝐞𝐭𝐨)
 
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬)
 
-- [Aplicação](#aplicação)
+- [Usuabilidade de Solução](#𝐔𝐬𝐮𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞-𝐝𝐞-𝐒𝐨𝐥𝐮𝐜̧𝐚̃𝐨)
+
+- [Autoria do Projeto e Tecnologias Utilizadas](#𝐀𝐮𝐭𝐨𝐫𝐢𝐚-𝐝𝐨-𝐏𝐫𝐨𝐣𝐞𝐭𝐨-𝐞-𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚-𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐚s)
+
 
 <h1 align="center">𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨</h1>
 
