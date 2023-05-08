@@ -5,12 +5,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" vitrinedev/>
 </p>
 
-# Tópicos 
-
-- [Descrição do projeto](#descrição-do-projeto)
-
-
-<h1 align="center">𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró
+<h1 align="center">𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró)</h1>
 
 <p align="justify">
 
