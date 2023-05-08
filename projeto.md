@@ -10,7 +10,7 @@
 - [Descrição do projeto](#descrição-do-projeto)
 
 
-###𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨
+<h1 align="center">𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 (By Elder Badaró
 
 <p align="justify">
 
