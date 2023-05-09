@@ -1,50 +1,68 @@
-# Aplicativo
+![Logo VerifyFacts](https://media.discordapp.net/attachments/817520258856386581/1104535914602041374/cooltext434993612318678.png)
+<hr>
 
-Aplicativo | Informação, checagem de fatos
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" vitrinedev/>
+</p>
 
-𝟏. 𝐀 𝐟𝐚𝐥𝐭𝐚 𝐝𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜̧𝐚̃𝐨 𝐞 𝐚 𝐝𝐢𝐟𝐢𝐜𝐮𝐥𝐝𝐚𝐝𝐞 𝐝𝐞 𝐢𝐧𝐭𝐞𝐫𝐚𝐜̧𝐚̃𝐨 𝐞𝐧𝐭𝐫𝐞 𝐨𝐬 𝐚𝐥𝐮𝐧𝐨𝐬.
+# Tópicos 
 
-𝟐. 𝐃𝐞𝐭𝐚𝐥𝐡𝐞𝐬 𝐝𝐨 𝐏𝐫𝐨𝐛𝐥𝐞𝐦𝐚
+- [Descrição do projeto](#𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨-𝐝𝐨-𝐏𝐫𝐨𝐣𝐞𝐭𝐨)
 
-O problema trata-se de uma situação escandalosa e de origem nefasta que coloca em risco os alunos, criando situações embaraçosas que, consequentemente, fazem os alunos perderem aulas, se sentirem desprotegidos e vivenciarem uma situação de constante alerta desnecessário. Para solucionar isso, é necessário um meio confiável de informações para tranquilizar e facilitar as interações entre os estudantes de diferentes turmas e turnos
+- [Funcionalidades](#𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬)
 
-𝟑. 𝐒𝐨𝐥𝐮𝐜̧𝐚̃𝐨 𝐩𝐚𝐫𝐚 𝐨 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐚 | 𝐀𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐯𝐨/𝐒𝐢𝐭𝐞
+- [Usuabilidade de Solução](#𝐔𝐬𝐮𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞-𝐝𝐞-𝐒𝐨𝐥𝐮𝐜̧𝐚̃𝐨)
 
-𝐍𝐨𝐦𝐞: VerifyFacts
+- [Autoria do Projeto e Tecnologias Utilizadas](#𝐀𝐮𝐭𝐨𝐫𝐢𝐚-𝐝𝐨-𝐏𝐫𝐨𝐣𝐞𝐭𝐨-𝐞-𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚s-𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐚s)
 
-𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨: Um aplicativo de verificação de fatos por votação popular de informações descontextualizadas ou falsas. O aplicativo funcionará da seguinte maneira: um usuário fará uma pergunta sobre uma informação que possa estar circulando na escola e outros usuários responderão com opiniões a favor ou contra, mas todas as opiniões devem ser apoiadas por fontes confiáveis
 
-𝐄𝐱𝐞𝐦𝐩𝐥𝐨: Um indivíduo desavisado entra na escola e relata um acontecimento suspeito no Colégio Estadual Góes Calmon. Para evitar o pânico, os usuários podem se comunicar por meio deste aplicativo, perguntando uns aos outros de diferentes turmas e turnos se a informação procede, evitando assim uma divulgação alarmista sobre essa situação.
+<h1 align="center">𝐃𝐞𝐬𝐜𝐫𝐢𝐜̧𝐚̃𝐨 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨</h1>
 
-𝟒. 𝐎 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨́𝐫𝐢𝐨 𝐟𝐨𝐢 𝐜𝐫𝐢𝐚𝐝𝐨.
+<p align="justify">
 
-O repositório está em: https://github.com/DoutorWho/Aplicativo.git
-
-𝟓. 𝐓𝐨𝐝𝐨𝐬 𝐣𝐚́ 𝐟𝐨𝐫𝐚𝐦 𝐚𝐝𝐢𝐜𝐢𝐨𝐧𝐚𝐝𝐨𝐬.
-
-𝟔. 𝐎 𝐥𝐢𝐧𝐤 𝐣𝐚́ 𝐟𝐨𝐢 𝐢𝐧𝐬𝐞𝐫𝐢𝐝𝐨, 𝐥𝐨𝐠𝐨 𝐚𝐜𝐢𝐦𝐚.
-
-𝗘𝘅𝘁𝗿𝗮 𝟭: 
-
-De maneira simplificada, vou mostrar como funciona o projeto em etapas.
-
-1. O usuário entra no site;
-2. O usuário faz uma pergunta;
-3. Outros usuários leem a pergunta dele;
-4. Alguns usuários decidem responder à pergunta;
-5. Um usuário responde à pergunta e adiciona o link da fonte na qual ele achou a resposta;
-6. Outros usuários reagem à resposta da pergunta;
-7. Com selo de certo ou errado;
-8. A partir do momento em que o usuário tem muitos selos de certo, a pergunta é considerada verdadeira pela maioria.
+📖 Um aplicativo de verificação de fatos por votação popular de informações descontextualizadas ou falsas. O aplicativo funcionará da seguinte maneira: 
+um usuário fará uma pergunta sobre uma informação que possa estar circulando na escola e outros usuários responderão com opiniões a favor ou contra, 
+mas todas as opiniões devem ser apoiadas por fontes confiáveis.
  
- 𝗘𝘅𝘁𝗿𝗮 𝟮:
- 
- Exemplo:
 
-❔ [𝗝𝗼𝗮̃𝗼 𝗦𝗶𝗹𝘃𝗮:] É verdade que não teve nenhuma aula na quarta-feira? Dia 26/04/2023?
-🌫️
-→ [𝗔𝗹𝗲𝘅𝗮𝗻𝗱𝗿𝗲 𝗣𝗲𝗶𝘅𝗼𝘁𝗼:] Sim, é verdade. Houve uma paralisação geral no Brasil na educação. Segue anexo: https://cnte.org.br/index.php/menu/comunicacao/posts/noticias/76020-nesta-quarta-feira-26-tem-greve-nacional-em-defesa-da-lei-do-piso-e-por-revogacao-do-novo-ensino-medio
+![Descrição do Projeto VerificyFacts](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/news.width-1300_FmjgacW.jpg)
+</p>
+  
 
-𝗥𝗲𝗮𝗰̧𝗼̃𝗲𝘀: ✅ 385 ❌ 10
+<h1 align="center">𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚𝐥𝐢𝐝𝐚𝐝𝐞𝐬</h1>
 
-A resposta foi considerada verdadeira, afinal, a maioria respondeu que está correta.
++ ■ `Funcionalidade 1` Verificação de informações;
+
++ ■ `Funcionalidade 2` Opiniões confiáveis;
+
++ ■ `Funcionalidade 3` Respostas através de votações;
+
++ ■ `Funcionalidade 4` Melhorar a interação entre os alunos;
+
+<h1 align="center">𝐔𝐬𝐮𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞 𝐝𝐞 𝐒𝐨𝐥𝐮𝐜̧𝐚̃𝐨</h1> 
+
+<div align="center">
+
+![Fake News](https://conteudo.imguol.com.br/c/noticias/d0/2023/04/29/tela-de-celular-escrita-fake-news-1682776958265_v2_4x3.jpg)
+
+  </div>
+
+
+ + `💡` Com o aumento significativo da disseminação de notícias falsas, tornou-se uma preocupação crescente nas escolas. No Brasil, crianças e adolescentes têm acesso a um grande volume de informações pela internet, e a falta de discernimento para distinguir o que é verdadeiro ou falso pode levá-los a cometer erros diversos. Uma solução eficaz seria a utilização de um aplicativo que conecte os estudantes apenas com fontes de informações confiáveis, como veículos de comunicação e líderes que tenham credibilidade dentro do colégio. É fundamental que as escolas incluam em seu currículo disciplinas que ensinem os jovens a identificar e lidar com as notícias falsas, garantindo assim um ambiente de aprendizado seguro. Dessa forma, os alunos serão mais motivados a se empenharem em suas atividades escolares e a desenvolver habilidades importantes para a vida.
+  
+<h1 align="center">𝐀𝐮𝐭𝐨𝐫𝐢𝐚 𝐝𝐨 𝐏𝐫𝐨𝐣𝐞𝐭𝐨 𝐞 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚s 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐚s</h1> 
+
+### 💾 Tecnologias Utilizadas:
+
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="htlm 5" width="40" height="40"/> </a> 
+
+### ✍️ Autores: 
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://avatars.githubusercontent.com/u/130578013?v=4"><img src="https://avatars.githubusercontent.com/u/130578013?v=4?s=100" width="100px;" alt="Elder Badaró"/><br /><sub><b>Elder Badaró</b></sub></a><br /><a href="https://github.com/doutorwho" title="Código">💻</a> <a href="https://avatars.githubusercontent.com/u/130578013?v=4" title="Documentos">📖</a> <a href="#colégio" title="Infraestura (Construção, Planejamento, etc)">🚇</a> <a href="https://avatars.githubusercontent.com/u/130578013?v=4" title="Testes">⚠️</a></td>
+       <td align="center"><a href="https://avatars.githubusercontent.com/u/131277418?v=4"><img src="https://avatars.githubusercontent.com/u/131277418?v=4?s=100" width="100px;" alt="Sarah Nascimento"/><br /><sub><b>Sarah Nascimento</b></sub></a><br /><a href="https://github.com/ncsttt" title="Documentos">📖</a></td>
+       <td align="center"><a href="https://avatars.githubusercontent.com/u/130579253?v=4"><img src="https://avatars.githubusercontent.com/u/130579253?v=4?s=100" width="100px;" alt="Cauã Silva"/><br /><sub><b>Cauã Silva</b></sub></a><br /><a href="https://github.com/cauassilva" title="Documentos">📖</a></td>
+<td align="center"><a href="https://avatars.githubusercontent.com/u/132069856?v=4"><img src="https://avatars.githubusercontent.com/u/132069856?v=4?s=100" width="100px;" alt="Yago Vinicius"/><br /><sub><b>Yago Vinicius</b></sub></a><br /><a href="https://github.com/Cac0ntivis" title="Documentos">📖</a></td>
+<td align="center"><a href="https://avatars.githubusercontent.com/u/130580269?v=4"><img src="https://avatars.githubusercontent.com/u/130580269?v=4?s=100" width="100px;" alt="Yuri Souza"/><br /><sub><b>Yuri Souza</b></sub></a><br /><a href="https://github.com/jfjuhfhfhfujfiudjdfhfu" title="Documentos">📖</a></td>
